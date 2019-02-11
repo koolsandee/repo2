@@ -1,10 +1,2 @@
- Volume in drive C is OS
- Volume Serial Number is 46A0-A73B
+chnage one
 
- Directory of C:\Users\Sandeep\Desktop\MyProject
-
-02/12/2019  01:05 AM    <DIR>          .
-02/12/2019  01:05 AM    <DIR>          ..
-02/12/2019  01:05 AM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  14,343,536,640 bytes free
